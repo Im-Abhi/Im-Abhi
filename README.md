@@ -3,7 +3,7 @@
 ## About Me   &nbsp;  ![](https://visitor-badge.glitch.me/badge?page_id=Im-Abhi.Im-Abhi)
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on FrontEnd Web.
+- 👯 I’m looking to collaborate on FrontEnd Web Projects.
 - 💬 Ask me about C++
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📫 How to reach me: ... -->
