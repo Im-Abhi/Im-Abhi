@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Abhishek
 
 ## About Me   &nbsp;  <!--  ![](https://visitor-badge.glitch.me/badge?page_id=Im-Abhi.Im-Abhi)  -->
-- 🔭 I’m currently working on ReactJS.
-- 🌱 I’m currently learning Backend Development (Web).
-- 👯 I’m looking to collaborate on FrontEnd Web-Development Projects.
+- 🔭 I’m currently working on Backend Development.
+- 🌱 I’m currently learning SFML2.
+- 👯 I’m looking to collaborate on Web-Dev Projects.
 - 💬 Ask me about C,C++
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 📫 How to reach me: ... -->
+<!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
