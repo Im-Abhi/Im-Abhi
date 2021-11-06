@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abhishek
 
-## About Me   &nbsp;  ![](https://visitor-badge.glitch.me/badge?page_id=Im-Abhi.Im-Abhi)
+## About Me   &nbsp;  <!--  ![](https://visitor-badge.glitch.me/badge?page_id=Im-Abhi.Im-Abhi)  -->
 - 🔭 I’m currently working on ReactJS.
 - 🌱 I’m currently learning Backend Development (Web).
 - 👯 I’m looking to collaborate on FrontEnd Web-Development Projects.
