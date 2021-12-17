@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Abhishek
 
 ## About Me   &nbsp;  <!--  ![](https://visitor-badge.glitch.me/badge?page_id=Im-Abhi.Im-Abhi)  -->
-- 🔭 I’m currently working on Backend Development.
+- 🔭 I’m currently working on Game Development in C++ using SFML.
 - 🌱 I’m currently learning SFML2.
 - 👯 I’m looking to collaborate on Web-Dev Projects.
-- 💬 Ask me about C,C++
+- 💬 Ask me about C, C++, JS
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns: ... -->
