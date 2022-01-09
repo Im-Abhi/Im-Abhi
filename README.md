@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Abhishek
 
 ## About Me   &nbsp;  <!--  ![](https://visitor-badge.glitch.me/badge?page_id=Im-Abhi.Im-Abhi)  -->
-- 🔭 I’m currently working on Game Development in C++ using SFML.
-- 🌱 I’m currently learning SFML2.
+- 🔭 I’m currently working on Backend Development In MERN Stack.
+- 🌱 I’m currently learning REACT-NATIVE.
 - 👯 I’m looking to collaborate on Web-Dev Projects.
 - 💬 Ask me about C, C++, JS
 <!-- - 🤔 I’m looking for help with ... -->
