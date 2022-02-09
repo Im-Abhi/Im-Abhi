@@ -2,7 +2,7 @@
 
 ## About Me   &nbsp;  <!--  ![](https://visitor-badge.glitch.me/badge?page_id=Im-Abhi.Im-Abhi)  -->
 - 🔭 I’m currently working on Backend Development In MERN Stack.
-- 🌱 I’m currently learning REACT-NATIVE.
+- 🌱 I’m currently focusing on DSA.
 - 👯 I’m looking to collaborate on Web-Dev Projects.
 - 💬 Ask me about C, C++, JS
 <!-- - 🤔 I’m looking for help with ... -->
