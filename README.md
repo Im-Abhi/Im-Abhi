@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Abhishek
 
 ## About Me   &nbsp;  <!--  ![](https://visitor-badge.glitch.me/badge?page_id=Im-Abhi.Im-Abhi)  -->
-- 🔭 I’m currently working on Backend Development In MERN Stack.
+- I'm MERN Stack Web Developer.
+- I'm looking for opportunities in Web Development.
 - 🌱 I’m currently focusing on DSA.
 - 👯 I’m looking to collaborate on Web-Dev Projects.
-- 💬 Ask me about C, C++, JS
+- 💬 Ask me about C, C++, JS, ReactJS
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns: ... -->
