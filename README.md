@@ -27,6 +27,8 @@
 [![Bootstrap](https://img.icons8.com/color/bootstrap.png)](https://getbootstrap.com)
 [![JQuery](https://img.icons8.com/ios/jquery.png)](https://jquery.com)
 [![Figma](https://img.icons8.com/color/48/000000/figma--v2.png)](https://figma.com)
+[![TailwindCSS](https://img.icons8.com/color/48/tailwindcss.png)](https://tailwindcss.com)
+
 <!--
 **Im-Abhi/Im-Abhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
