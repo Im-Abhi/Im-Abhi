@@ -1,15 +1,16 @@
 # Hi there 👋, I'm
-![image](https://github.com/user-attachments/assets/94c8051d-8db0-49f2-987c-c7bffdc8fb84)
+![Screenshot 2025-04-19 202007](https://github.com/user-attachments/assets/402c41a4-a273-4766-8bed-b4af0e01ddc6)
+
 
 
 ## About Me   &nbsp;  <!--  ![](https://visitor-badge.glitch.me/badge?page_id=Im-Abhi.Im-Abhi)  -->
-- I'm MERN Stack Web Developer.
+- I'm MERN Stack Web Developer with some interest in security.
 - I'm looking for opportunities in Web Development.
-- 🌱 I’m currently focusing on DSA.
+<!-- - 🌱 I’m currently focusing on DSA.  -->
 - 👯 I’m looking to collaborate on Web-Dev Projects.
 - 💬 Ask me about C, C++, JS, ReactJS
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 📫 How to reach me:  -->
+- 📫 How to reach me: connect with me via Linkedin / [Porfolio](https://abhishek-gupta.netlify.app) (contact) : 
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
@@ -30,6 +31,7 @@
 [![JQuery](https://img.icons8.com/ios/jquery.png)](https://jquery.com)
 [![Figma](https://img.icons8.com/color/48/000000/figma--v2.png)](https://figma.com)
 [![TailwindCSS](https://img.icons8.com/color/48/tailwindcss.png)](https://tailwindcss.com)
+[![Postman](https://img.icons8.com/?size=48&id=QEQQKirln6Tf&format=png&color=000000)](https//postman.com)
 
 <!--
 **Im-Abhi/Im-Abhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
